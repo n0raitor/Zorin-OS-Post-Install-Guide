@@ -19,7 +19,20 @@ Note: Suitable for Ubuntu Desktop, Linux Mint, and all Ubuntu Base Distros.
 Grab the latest DEBs of Proton and install them.
 
 **Install Script**:
+```bash
+sudo apt install -y gnome-keyring
 
+sudo snap install standard-notes
+sudo snap install spotify
+sudo snap install proton-mail
+sudo snap install proton-pass
+sudo snap install vivaldi
+flatpak install md.obsidian.Obsidian 
+flatpak install com.vscodium.codium
+
+```
+
+DEPRECATED:!!!!
 ```bash
 sudo apt install curl gedit obs-studio git libfuse2 ubuntu-restricted-extras -y
 sudo apt install gnome-builder calibre handbrake obs-studio vlc filelight baobab python3-virtualenv python3-pip python3 glances most dia ghex tree bleachbit ipython3 neofetch gnome-keyring android-sdk-platform-tools-common qbittorrent -y
