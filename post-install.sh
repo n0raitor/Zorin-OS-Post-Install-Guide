@@ -63,7 +63,6 @@ sudo flatpak install md.obsidian.Obsidian -y
 sudo flatpak install com.vscodium.codium -y
 sudo flatpak install de.haeckerfelix.Shortwave -y
 sudo flatpak install org.ghidra_sre.Ghidra -y
-sudo flatpak install appimage-pool -y
 sudo flatpak install com.github.tchx84.Flatseal -y
 sudo flatpak install flathub org.signal.Signal -y
 sudo flatpak install org.jdownloader.JDownloader -y
