@@ -54,7 +54,6 @@ if [[ "$confirm" =~ ^[Yy]$ ]]; then
 fi
 echo "\n"
 
-sudo snap install standard-notes
 sudo snap install spotify
 sudo snap install proton-mail
 sudo snap install proton-pass
